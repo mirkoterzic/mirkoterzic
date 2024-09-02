@@ -21,12 +21,12 @@ Whether it’s coding, solving complex problems, or pushing my physical limits, 
 [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,sqlite)](https://skillicons.dev)
 <br/>
 <br/>
-<br/>
 
 
+## Socials 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirkoterzic)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirkoterzic/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/mirko_terzic/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirkoterzic&show_icons=true)  
+
 
 
