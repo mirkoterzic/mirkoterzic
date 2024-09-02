@@ -27,7 +27,10 @@ Whether it’s coding, solving complex problems, or pushing my physical limits, 
 
 ## Socials 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirkoterzic)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirkoterzic/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/mirko_terzic/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkoterzic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkoterzic/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FB0000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mirko_terzic/)
+
 
 
 
