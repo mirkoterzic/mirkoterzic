@@ -2,7 +2,7 @@
 #### 🌍  I am a Front-End Developer based in Banja Luka, Bosnia and Herzegovina.
 ## About Me
 
-My name is **Mirko Terzic**. I was born in **Toronto, Canada**, and now live in **Banja Luka, Bosnia and Herzegovina**. I specialize in **HTML5, CSS3, Tailwind CSS, JavaScript, React,** and **Webpack**. My passion lies in creating intuitive and dynamic user interfaces.
+My name is **Mirko Terzic**. I was born in **Toronto, Canada**, and now live in **Banja Luka, Bosnia and Herzegovina**. I specialize in **HTML5, CSS3, Tailwind CSS, JavaScript,** and **React**. My passion lies in creating intuitive and dynamic user interfaces.
 
 I also enjoy developing Android applications using **Java** and tackling algorithmic challenges on **LeetCode** in my spare time.
 
